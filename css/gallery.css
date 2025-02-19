@@ -8,7 +8,7 @@ body {
   /* line-height: 650px; */
   align-content: center; /* used a modern version to align text center vertically */
   width: 575px;
-  height: 650px;
+  height: 575px; /* adjusted the height to fit images */
   border: 5px solid black;
   margin: 0 auto;
   background-color: #8e68ff;
